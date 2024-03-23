@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Ryuki Kobayashi (**小林 流基**), a Research Associate at the Faculty of Economics, Keio University. My research interests include empirical industrial organization, applied microeconomics. 
+I am Ryuki Kobayashi (**小林 流基**), a Research Associate at the Faculty of Economics, Keio University.
+
+## Research interest
+* Empirical industrial organization
+* Applied microeconomics
