@@ -14,4 +14,4 @@ I am Ryuki Kobayashi (**小林 流基**), a Research Associate at the Faculty of
 * Applied microeconomics
 
 
-**THIS WEB SITE IS WORKING IN PROGRESS**
+**THIS WEB SITE IS WORK IN PROGRESS**
